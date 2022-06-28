@@ -1,0 +1,72 @@
+.head-text {
+    font-weight: bold;
+    color: navy;
+    font-size: 16px;
+}
+
+.name {
+    font-weight: bold;
+    color: navy;
+}
+
+.small-text {
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.tab-con {
+    margin-top: 40px;
+}
+
+.intro {
+    background-color: lightgray;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.body-text {
+    color: navy;
+}
+
+.pro-text {
+    text-align: center;
+    border-radius: 20px;
+    height: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bg2 {
+    background-image: linear-gradient(rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73), black), url('assets/images/123.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg1 {
+    background-image: linear-gradient(rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73), black), url('assets/images/1234.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg3 {
+    background-image: linear-gradient(rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73), black), url('assets/images/12345.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg4 {
+    background-image: linear-gradient(rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73), black), url('assets/images/123456.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg5 {
+    background-image: linear-gradient(rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73), black), url('assets/images/12.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn {
+    background-color: navy !important;
+    border: none !important;
+}
